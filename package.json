@@ -20,7 +20,8 @@
   },
   "main": "/index.tsx",
   "name": "chakra-ui-landing-page",
-  "description": null,
+  "description": "Creating product landing page with chakra-ui , chatgpt. Inspired by Snappify",
+  "author": "@anuraagdjain",
   "version": "0.0.6",
   "scripts": {
     "start": "react-scripts start",
